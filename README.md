@@ -1,5 +1,5 @@
 # Cracking Caesar's Cipher
-For context, Ceasar's Cipher is method of encoding messages that uses a number to shift the letters according to their positions in the alphabet. For this project, rather than encoding, it will decrypt. 
+For context, Ceasar's cipher is method of encoding messages that uses a number to shift the letters according to their positions in the alphabet. For this project, it will decode the messages that were encrypted with the Ceaser cipher to get the original message. 
 
 ### Project 
 My project does:
