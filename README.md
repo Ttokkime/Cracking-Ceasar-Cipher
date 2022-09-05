@@ -15,7 +15,7 @@ My project can:
 
 ### ← README.md
 
-README.md file give you more documentation and information about a program. They are super helpful for describing what a program should do, any issues you've encountered, changes you want to make, and more. 
+README.md file give a summary about the program and what it can do.
 
 ### ← main.py
-This is where you will write your main program.
+The code used for the Cracking Ceasar's Cipher project.
