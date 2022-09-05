@@ -1,4 +1,4 @@
-# Cracking Caesar's Cipher Starter Code
+# Cracking Caesar's Cipher
 This is a place for you to start building your Cracking Caesar's Cipher Project!
 
 ### Project Requirements
